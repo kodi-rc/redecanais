@@ -1,5 +1,5 @@
 EXTM3U
-#EXTINF:0 tvg-name="A&E" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/aie.jpg" group-title="Filmes-series",A&E
+#EXTINF:0 tvg-name="AE teste" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/aie.jpg" group-title="Filmes-series",AE
 https://streaming.belugacdn.link/a/hls1/aie.m3u8?expires=1604826860&token=9426292240cbe969ffcb2101a278b550
 
 #EXTINF:0 tvg-name="AMC" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/amc.jpg" group-title="Filmes-series",AMC
