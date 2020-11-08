@@ -1,0 +1,312 @@
+EXTM3U
+#EXTINF:0 tvg-name="A&E" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/aie.jpg" group-title="Filmes-series",A&E
+https://streaming.belugacdn.link/a/hls1/aie.m3u8?expires=1604826860&token=9426292240cbe969ffcb2101a278b550
+
+#EXTINF:0 tvg-name="AMC" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/amc.jpg" group-title="Filmes-series",AMC
+https://streaming.belugacdn.link/a/hls1/amc.m3u8?expires=1604826862&token=637c173b20eacd23e83da46e20ba93af
+
+#EXTINF:0 tvg-name="AXN" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/AXN.jpg" group-title="Filmes-series",AXN
+https://streaming.belugacdn.link/a/hls1/axn.m3u8?expires=1604826863&token=a47d6fe2679ab7b9eace012856e2d412
+
+#EXTINF:0 tvg-name="Animal Planet" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/AnimalPlanet.jpg" group-title="Documentarios",Animal Planet
+https://streaming.belugacdn.link/a/hls1/animalplanet.m3u8?expires=1604826959&token=4993aa8e84747709c7f1809c9c262ca6
+
+#EXTINF:0 tvg-name="Arte 1" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Arte1.jpg" group-title="Variedades",Arte 1
+https://streaming.belugacdn.link/a/hls1/arte1.m3u8?expires=1604826980&token=e43d323be31f161eb10c0668050d6e2d
+
+#EXTINF:0 tvg-name="BIS" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/bis.jpg" group-title="Variedades",BIS
+https://streaming.belugacdn.link/a/hls1/bis.m3u8?expires=1604826981&token=785c84907d2cdfb7943b95519b97a225
+
+#EXTINF:0 tvg-name="Band News" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/bandnews.jpg" group-title="Noticias",Band News
+https://streaming.belugacdn.link/a/hls1/bandnews.m3u8?expires=1604826973&token=df8413564ff3bb484df8134ba52b0e6e
+
+#EXTINF:0 tvg-name="Band Sports" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/bandsports.jpg" group-title="Esportes",Band Sports
+https://streaming.belugacdn.link/a/hls1/bandsports.m3u8?expires=1604826909&token=2e1d8bbe3e22bf1e31d950671d503f5c
+
+#EXTINF:0 tvg-name="Boomerang" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Boomerang.jpg" group-title="Infantis",Boomerang
+https://streaming.belugacdn.link/a/hls1/boomerang.m3u8?expires=1604826939&token=cfff4b47c576768ec68a8e904348b349
+
+#EXTINF:0 tvg-name="CNN Brasil" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cnnbrasil.jpg" group-title="Noticias",CNN Brasil
+https://streaming.belugacdn.link/a/hls1/cnnbrasil.m3u8?expires=1604826974&token=1ee8c7dd90cc4913c612e64ec6561393
+
+#EXTINF:0 tvg-name="Canal Brasil" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/canalbrasil.jpg" group-title="Filmes-series",Canal Brasil
+https://streaming.belugacdn.link/a/hls1/canalbrasil.m3u8?expires=1604826864&token=3abc737d6493e49e21c1dc116b29c3ee
+
+#EXTINF:0 tvg-name="Canal Off" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/off.jpg" group-title="Variedades",Canal Off
+https://streaming.belugacdn.link/a/hls1/off.m3u8?expires=1604826982&token=deb06954d92313abd4928d9cee1a387f
+
+#EXTINF:0 tvg-name="Canal Sony" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sony.jpg" group-title="Filmes-series",Canal Sony
+https://streaming.belugacdn.link/a/hls1/sony.m3u8?expires=1604826866&token=812c0e265c5f6e2dd819bd8d63077bb3
+
+#EXTINF:0 tvg-name="Cartoon Network" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Infantis",Cartoon Network
+https://streaming.belugacdn.link/a/hls1/cartoon.m3u8?expires=1604826940&token=22cd1d966cfaaa3f1f769bdde98047ee
+
+#EXTINF:0 tvg-name="Cinemax" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cinemax.jpg" group-title="Filmes-series",Cinemax
+https://streaming.belugacdn.link/a/hls1/cinemax.m3u8?expires=1604826867&token=f0940927bb08ead3cf7729696bc21c41
+
+#EXTINF:0 tvg-name="Combate - Lutas - UFC" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/combate.jpg" group-title="Esportes",Combate - Lutas - UFC
+https://streaming.belugacdn.link/a/hls1/combate.m3u8?expires=1604826910&token=b516df43db086d3d3d5ac82eb572b87c
+
+#EXTINF:0 tvg-name="Comedy Central" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg" group-title="Variedades",Comedy Central
+https://streaming.belugacdn.link/a/hls1/comedycentral.m3u8?expires=1604826984&token=fce27a0c1e35b01deaf9c8fe10b038f7
+
+#EXTINF:0 tvg-name="Curta!" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/curta.jpg" group-title="Variedades",Curta!
+https://streaming.belugacdn.link/a/hls1/curta.m3u8?expires=1604826985&token=c234c4175773634e3698ed972fa57b4b
+
+#EXTINF:0 tvg-name="Discovery Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discovery.jpg" group-title="Documentarios",Discovery Channel
+https://streaming.belugacdn.link/a/hls1/discovery.m3u8?expires=1604826961&token=bf7415a06103ab2f83a0eda824531f64
+
+#EXTINF:0 tvg-name="Discovery Home & Health" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Variedades",Discovery Home & Health
+https://streaming.belugacdn.link/a/hls1/discoveryhomeihealth.m3u8?expires=1604826986&token=a17291e8ff7cd96ed88f8680d62743a2
+
+#EXTINF:0 tvg-name="Discovery Kids" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/DiscoveryKids.jpg" group-title="Infantis",Discovery Kids
+https://streaming.belugacdn.link/a/hls1/discoverykids.m3u8?expires=1604826942&token=6032cf15a78868fc8c5f6bf077832010
+
+#EXTINF:0 tvg-name="Discovery Science" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoverysience.jpg" group-title="Documentarios",Discovery Science
+https://streaming.belugacdn.link/a/hls1/discoverysience.m3u8?expires=1604826962&token=2db7b37bd82f24b6f8530e97b5c7c8df
+
+#EXTINF:0 tvg-name="Discovery Theater" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoverytheater.jpg" group-title="Documentarios",Discovery Theater
+https://streaming.belugacdn.link/a/hls1/discoverytheater.m3u8?expires=1604826964&token=21a5b7a49fdfef79016d78e6c3ea4c6e
+
+#EXTINF:0 tvg-name="Discovery Turbo" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryturbo.jpg" group-title="Esportes",Discovery Turbo
+https://streaming.belugacdn.link/a/hls1/discoveryturbo.m3u8?expires=1604826911&token=1f229a13d12cc7dce1ae54316c014fcf
+
+#EXTINF:0 tvg-name="Discovery World" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryworld.jpg" group-title="Variedades",Discovery World
+https://streaming.belugacdn.link/a/hls1/discoveryworld.m3u8?expires=1604826988&token=fd6e7c114501d81e83c51a31601ef64e
+
+#EXTINF:0 tvg-name="Disney Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Disney.jpg" group-title="Infantis",Disney Channel
+https://streaming.belugacdn.link/a/hls1/disney.m3u8?expires=1604826943&token=17eea2600c12ba5535426ed40dca319b
+
+#EXTINF:0 tvg-name="Disney Junior" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/disneyjunior.jpg" group-title="Infantis",Disney Junior
+https://streaming.belugacdn.link/a/hls1/disneyjunior.m3u8?expires=1604826945&token=5ecd411f42faa988d1bb27bd9e657556
+
+#EXTINF:0 tvg-name="Disney XD" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/disneyxd.jpg" group-title="Infantis",Disney XD
+https://streaming.belugacdn.link/a/hls1/disneyxd.m3u8?expires=1604826949&token=825b1ee901c53e6aa461acff2cfc6b21
+
+#EXTINF:0 tvg-name="E! Entertainment Television" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/canale.jpg" group-title="Variedades",E! Entertainment Television
+https://streaming.belugacdn.link/a/hls1/canale.m3u8?expires=1604826989&token=c6c663b5a1b49cf9890b4973dd178b86
+
+#EXTINF:0 tvg-name="ESPN" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/espn.jpg" group-title="Esportes",ESPN
+https://streaming.belugacdn.link/a/hls1/espn.m3u8?expires=1604826913&token=e94a19b97182663e501c9aa163f7617f
+
+#EXTINF:0 tvg-name="ESPN 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/espn2.jpg" group-title="Esportes",ESPN 2
+https://streaming.belugacdn.link/a/hls1/espn2.m3u8?expires=1604826914&token=ac03373cc7ecb5821e23db4c10ba0791
+
+#EXTINF:0 tvg-name="ESPN Brasil" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/espnbrasil.jpg" group-title="Esportes",ESPN Brasil
+https://streaming.belugacdn.link/a/hls1/espnbrasil.m3u8?expires=1604826915&token=77177f0462db0997f8b8ce9f9873de1d
+
+#EXTINF:0 tvg-name="ESPN Extra" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/espnextra.jpg" group-title="Esportes",ESPN Extra
+https://streaming.belugacdn.link/a/hls1/espnextra.m3u8?expires=1604826917&token=9da251e2c12088c97ef81630d95c7009
+
+#EXTINF:0 tvg-name="FX" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/fx.jpg" group-title="Filmes-series",FX
+https://streaming.belugacdn.link/a/hls1/fx.m3u8?expires=1604826873&token=7d95a2df628d72954b468883a4fba68f
+
+#EXTINF:0 tvg-name="Fish TV" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/fishtv.jpg" group-title="Variedades",Fish TV
+https://streaming.belugacdn.link/a/hls1/fishtv.m3u8?expires=1604826990&token=84aeba13925f8f782f92e1d6b85a24cd
+
+#EXTINF:0 tvg-name="Food Network" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foodnetwork.jpg" group-title="Variedades",Food Network
+https://streaming.belugacdn.link/a/hls1/foodnetwork.m3u8?expires=1604826992&token=13b653b546b2157f8acbe62f5b3c23f2
+
+#EXTINF:0 tvg-name="Fox Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxchannel.jpg" group-title="Filmes-series",Fox Channel
+https://streaming.belugacdn.link/a/hls1/fox.m3u8?expires=1604826868&token=d0c0554978f1e73ca05af2593b10b139
+
+#EXTINF:0 tvg-name="Fox Life" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxlife.jpg" group-title="Variedades",Fox Life
+https://streaming.belugacdn.link/a/hls1/foxlife.m3u8?expires=1604826993&token=fc1e9ca18ead9dab29ffd13ed730f007
+
+#EXTINF:0 tvg-name="Fox Premium 1" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxpremium1.jpg" group-title="Filmes-series",Fox Premium 1
+https://streaming.belugacdn.link/a/hls1/foxpremium1.m3u8?expires=1604826870&token=7ca30c8b6afd3a15b8914c287c019baf
+
+#EXTINF:0 tvg-name="Fox Premium 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxpremium2.jpg" group-title="Filmes-series",Fox Premium 2
+https://streaming.belugacdn.link/a/hls1/foxpremium2.m3u8?expires=1604826871&token=ce36a10ea14421321fab6a2f769cb663
+
+#EXTINF:0 tvg-name="Fox Sports" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports1.jpg" group-title="Esportes",Fox Sports
+https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1604826918&token=e69bb9cb84d4d402820f984d1797525b
+
+#EXTINF:0 tvg-name="Fox Sports 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports2.jpg" group-title="Esportes",Fox Sports 2
+https://streaming.belugacdn.link/a/hls1/foxsports2.m3u8?expires=1604826919&token=f7e0af5ad31e7304602029a26293859e
+
+#EXTINF:0 tvg-name="GNT" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/GNT.jpg" group-title="Variedades",GNT
+https://streaming.belugacdn.link/a/hls1/gnt.m3u8?expires=1604826994&token=64269d1c391c3ee5b41cd1b5f0072907
+
+#EXTINF:0 tvg-name="Globo News" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/globonews.jpg" group-title="Noticias",Globo News
+https://streaming.belugacdn.link/a/hls1/globonews.m3u8?expires=1604826975&token=5ef56cacc3e84a46b1d01c0e666bb00d
+
+#EXTINF:0 tvg-name="Gloob" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Gloob.jpg" group-title="Infantis",Gloob
+https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1604826950&token=3132d7649f26c1169131f99e0e769d9d
+
+#EXTINF:0 tvg-name="HBO" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg" group-title="Filmes-series",HBO
+https://streaming.belugacdn.link/a/hls1/hbo.m3u8?expires=1604826874&token=af1212c7b891e61b3b6ac1e05875bbd2
+
+#EXTINF:0 tvg-name="HBO 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg" group-title="Filmes-series",HBO 2
+https://streaming.belugacdn.link/a/hls1/hbo2.m3u8?expires=1604826875&token=62b896ccb01986d125064a15f1eb8118
+
+#EXTINF:0 tvg-name="HBO Family" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbofamily.jpg" group-title="Filmes-series",HBO Family
+https://streaming.belugacdn.link/a/hls1/hbofamily.m3u8?expires=1604826877&token=205688cd6a032295dbc0bdea1dceb86b
+
+#EXTINF:0 tvg-name="HBO Mundi" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbomundi.jpg" group-title="Filmes-series",HBO Mundi
+https://streaming.belugacdn.link/a/hls1/hbomundi.m3u8?expires=1604826879&token=bcd25fc317db2ceb91f54f05f5d8878f
+
+#EXTINF:0 tvg-name="HBO Plus" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg" group-title="Filmes-series",HBO Plus
+https://streaming.belugacdn.link/a/hls1/hboplus.m3u8?expires=1604826880&token=e1414bfa68fe0d9c822e71a897774c48
+
+#EXTINF:0 tvg-name="HBO Pop" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg" group-title="Filmes-series",HBO Pop
+https://streaming.belugacdn.link/a/hls1/hbopop.m3u8?expires=1604826881&token=2f8ed9c47946f934dc12e886edb72de2
+
+#EXTINF:0 tvg-name="HBO Signature" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbosignature.jpg" group-title="Filmes-series",HBO Signature
+https://streaming.belugacdn.link/a/hls1/hbosignature.m3u8?expires=1604826883&token=0dde10f95baafc3faf0e2a44cdc23f6d
+
+#EXTINF:0 tvg-name="HBO Xtreme" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg" group-title="Filmes-series",HBO Xtreme
+https://streaming.belugacdn.link/a/hls1/hboxtreme.m3u8?expires=1604826884&token=9edd7d86d16d6f141aabf2ad6c2b3dee
+
+#EXTINF:0 tvg-name="HGTV" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hgtv.jpg" group-title="Documentarios",HGTV
+https://streaming.belugacdn.link/a/hls1/hgtv.m3u8?expires=1604826965&token=4d823e4fe627d87a92316d3135a0bd64
+
+#EXTINF:0 tvg-name="History 2 - H2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/history2.jpg" group-title="Documentarios",History 2 - H2
+https://streaming.belugacdn.link/a/hls1/history2.m3u8?expires=1604826966&token=6188252041ebba1650d229e6ff249e58
+
+#EXTINF:0 tvg-name="History Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/history.jpg" group-title="Documentarios",History Channel
+https://streaming.belugacdn.link/a/hls1/history.m3u8?expires=1604826968&token=0b81156b3d641e81c874d5c8b14b31f0
+
+#EXTINF:0 tvg-name="Investigao Discovery" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/investigacaodiscovery.jpg" group-title="Variedades",Investigao Discovery
+https://streaming.belugacdn.link/a/hls1/investigacaodiscovery.m3u8?expires=1604826996&token=66ffa96d438830916f9238898abb718a
+
+#EXTINF:0 tvg-name="Lifetime" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Lifetime.jpg" group-title="Variedades",Lifetime
+https://streaming.belugacdn.link/a/hls1/lifetime.m3u8?expires=1604826998&token=e131900ee8680392dd71e68f07c8f971
+
+#EXTINF:0 tvg-name="MTV" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/mtv.jpg" group-title="Variedades",MTV
+https://streaming.belugacdn.link/a/hls1/mtv.m3u8?expires=1604827000&token=6ca6b5e3285ca74e8f704215aa104e3b
+
+#EXTINF:0 tvg-name="Mais Globosat" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/maisglobosat.jpg" group-title="Variedades",Mais Globosat
+https://streaming.belugacdn.link/a/hls1/maisbobosat.m3u8?expires=1604826999&token=02777d2169fe494ffd88537b38b608eb
+
+#EXTINF:0 tvg-name="Megapix" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Megapix.jpg" group-title="Filmes-series",Megapix
+https://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1604826885&token=1e19602ad188d619bc66aedf1dbd3a4c
+
+#EXTINF:0 tvg-name="Multishow" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/multishow.jpg" group-title="Variedades",Multishow
+https://streaming.belugacdn.link/a/hls1/multishow.m3u8?expires=1604827002&token=c06135782a5b7e4db3bd80c95a449756
+
+#EXTINF:0 tvg-name="Nat Geo Kids" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/NatGeoKids.jpg" group-title="Infantis",Nat Geo Kids
+https://streaming.belugacdn.link/a/hls1/natgeokids.m3u8?expires=1604826951&token=85b200e3c680018b0046195269b5f8bf
+
+#EXTINF:0 tvg-name="Nat Geo Wild" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Natgeowild.jpg" group-title="Documentarios",Nat Geo Wild
+https://streaming.belugacdn.link/a/hls1/natgeowild.m3u8?expires=1604826969&token=2210ce96a21f6e2e47e1578c1efec46e
+
+#EXTINF:0 tvg-name="National Geographic Channel - Nat Geo" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/natgeo.jpg" group-title="Documentarios",National Geographic Channel - Nat Geo
+https://streaming.belugacdn.link/a/hls1/natgeo.m3u8?expires=1604826970&token=bc6c7084e22270b635159c1e6cb56722
+
+#EXTINF:0 tvg-name="Nick Jr." tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nickjr.jpg" group-title="Infantis",Nick Jr.
+https://streaming.belugacdn.link/a/hls1/nickjr.m3u8?expires=1604826953&token=c6b0d0c59e42b42e3611921b667e269f
+
+#EXTINF:0 tvg-name="Nickelodeon: Nick" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Nick.jpg" group-title="Infantis",Nickelodeon: Nick
+https://streaming.belugacdn.link/a/hls1/nick.m3u8?expires=1604826954&token=d98f42f75d4d0a2ed0f99babde789bd1
+
+#EXTINF:0 tvg-name="Paramount Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/paramount.jpg" group-title="Filmes-series",Paramount Channel
+https://streaming.belugacdn.link/a/hls1/paramount.m3u8?expires=1604826887&token=4e8340a4fa47230e85e1b1f0d1896833
+
+#EXTINF:0 tvg-name="Premiere - Clubes" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiereclubes.jpg" group-title="Esportes",Premiere - Clubes
+https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1604826921&token=87b01947656f39382d722dd2b75959ae
+
+#EXTINF:0 tvg-name="Premiere 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere2.jpg" group-title="Esportes",Premiere 2
+https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1604826922&token=c1f7c9def222b4179ef62419c4a1ab8b
+
+#EXTINF:0 tvg-name="Premiere 3" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere3.jpg" group-title="Esportes",Premiere 3
+https://streaming.belugacdn.link/a/hls1/premiere3.m3u8?expires=1604826923&token=d203b5e8bf40418927e3b81e2ec875a9
+
+#EXTINF:0 tvg-name="Premiere 4" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere4.jpg" group-title="Esportes",Premiere 4
+https://streaming.belugacdn.link/a/hls1/premiere4.m3u8?expires=1604826928&token=1d036c0f18c65afeeb5bd518ae747655
+
+#EXTINF:0 tvg-name="Premiere 5" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere5.jpg" group-title="Esportes",Premiere 5
+https://streaming.belugacdn.link/a/hls1/premiere5.m3u8?expires=1604826930&token=88548909c83f83d7c9e9a3bb011ce785
+
+#EXTINF:0 tvg-name="Premiere 6" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere6.jpg" group-title="Esportes",Premiere 6
+https://streaming.belugacdn.link/a/hls1/premiere6.m3u8?expires=1604826931&token=a76c4ee69b333d5a62377f595fab3554
+
+#EXTINF:0 tvg-name="Premiere 7" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes",Premiere 7
+https://streaming.belugacdn.link/a/hls1/premiere7.m3u8?expires=1604826932&token=dc6638966c83eedb1c08a9b861db186d
+
+#EXTINF:0 tvg-name="Record News" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/recordnews.jpg" group-title="Noticias",Record News
+https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1604826977&token=431831f5335af8202c048aaf909426df
+
+#EXTINF:0 tvg-name="Record News" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/recordnews.jpg" group-title="Abertos",Record News
+https://streaming.belugacdn.link/a/hls1/recordnews.m3u8?expires=1604827007&token=34509b80359f6bacb137f0e7f93d63bb
+
+#EXTINF:0 tvg-name="Record TV SP" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/recordsp.jpg" group-title="Abertos",Record TV SP
+https://streaming.belugacdn.link/a/hls1/recordsp.m3u8?expires=1604827008&token=3ad1286cc01472cb0744d085b8457efd
+
+#EXTINF:0 tvg-name="Rede Bandeirantes - Band" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Band.jpg" group-title="Abertos",Rede Bandeirantes - Band
+https://streaming.belugacdn.link/a/hls1/band.m3u8?expires=1604827010&token=f2a90d340f76a0912a97d3d398b2b882
+
+#EXTINF:0 tvg-name="Rede Globo Nordeste" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/bobone.jpg" group-title="Abertos",Rede Globo Nordeste
+https://streaming.belugacdn.link/a/hls1/bobonordeste.m3u8?expires=1604827011&token=4932c83a0acd20c04c45c5bf59d22500
+
+#EXTINF:0 tvg-name="Rede Globo RJ" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/boboriodejaneiro.jpg" group-title="Abertos",Rede Globo RJ
+https://streaming.belugacdn.link/a/hls1/boborj.m3u8?expires=1604827012&token=3a8602ddfcf8562a629ab2a3efd6ae90
+
+#EXTINF:0 tvg-name="Rede Globo SP" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/bobosaopaulo.jpg" group-title="Abertos",Rede Globo SP
+https://streaming.belugacdn.link/a/hls1/bobosp.m3u8?expires=1604827014&token=2f43012f7b85528e5cb3da0b9a8878a8
+
+#EXTINF:0 tvg-name="SBT" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Abertos",SBT
+https://streaming.belugacdn.link/a/hls1/sbt.m3u8?expires=1604827015&token=1e378c85bad221fcd7c0fac897e864ce
+
+#EXTINF:0 tvg-name="Space" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/Space.jpg" group-title="Filmes-series",Space
+https://streaming.belugacdn.link/a/hls1/space.m3u8?expires=1604826888&token=85c506f844553cb66fc1be48bd5fcb63
+
+#EXTINF:0 tvg-name="SporTV" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/SporTV1.jpg" group-title="Esportes",SporTV
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1604826934&token=637014bd0f2fbfde5a2bd5bc3f14205c
+
+#EXTINF:0 tvg-name="SporTV 2" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/SporTV2.jpg" group-title="Esportes",SporTV 2
+https://streaming.belugacdn.link/a/hls1/sportv2.m3u8?expires=1604826935&token=02ec7649b40cc21b58e104f2a15c6ac3
+
+#EXTINF:0 tvg-name="SporTV 3" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/SporTV3.jpg" group-title="Esportes",SporTV 3
+https://streaming.belugacdn.link/a/hls1/sportv3.m3u8?expires=1604826936&token=27b8cae85a4d446f24df1a3062e9f300
+
+#EXTINF:0 tvg-name="Studio Universal" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/StudioUniversal.jpg" group-title="Filmes-series",Studio Universal
+https://streaming.belugacdn.link/a/hls1/studiouniversal.m3u8?expires=1604826889&token=b5352bd0659e36c0780320f572a98503
+
+#EXTINF:0 tvg-name="Syfy" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/syfy.jpg" group-title="Filmes-series",Syfy
+https://streaming.belugacdn.link/a/hls1/syfy.m3u8?expires=1604826891&token=75fb1c4adb56c8836e08bfba56a85085
+
+#EXTINF:0 tvg-name="TCM" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tcm.jpg" group-title="Filmes-series",TCM
+https://streaming.belugacdn.link/a/hls1/tcm.m3u8?expires=1604826892&token=34bcda76599390cd219f1c7523f165f3
+
+#EXTINF:0 tvg-name="TLC" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Variedades",TLC
+https://streaming.belugacdn.link/a/hls1/tlc.m3u8?expires=1604827003&token=8f27a713188a7adea1afdc13c5d5078b
+
+#EXTINF:0 tvg-name="TNT" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tnt.jpg" group-title="Filmes-series",TNT
+https://streaming.belugacdn.link/a/hls1/tnt.m3u8?expires=1604826902&token=ee15e15f814ed1ee6f8edc049a1ff5ef
+
+#EXTINF:0 tvg-name="TNT Series" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tntseries.jpg" group-title="Filmes-series",TNT Series
+https://streaming.belugacdn.link/a/hls1/tntseries.m3u8?expires=1604826903&token=32362c38800858e5c341532a40c0d9ce
+
+#EXTINF:0 tvg-name="Telecine Action" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecineaction.jpg" group-title="Filmes-series",Telecine Action
+https://streaming.belugacdn.link/a/hls1/telecineaction.m3u8?expires=1604826894&token=5134fb301034c2c77888e6841648854d
+
+#EXTINF:0 tvg-name="Telecine Cult" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinecult.jpg" group-title="Filmes-series",Telecine Cult
+https://streaming.belugacdn.link/a/hls1/telecinecult.m3u8?expires=1604826895&token=8eda4ae8023dab805d0f64eca1171582
+
+#EXTINF:0 tvg-name="Telecine Fun" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinefun.jpg" group-title="Filmes-series",Telecine Fun
+https://streaming.belugacdn.link/a/hls1/telecinefun.m3u8?expires=1604826897&token=0d8b6edc287493d667f62d498be03067
+
+#EXTINF:0 tvg-name="Telecine Pipoca" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepipoca.jpg" group-title="Filmes-series",Telecine Pipoca
+https://streaming.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1604826898&token=a2a3a9be772b8b0c4e6b2fcdf3ec816b
+
+#EXTINF:0 tvg-name="Telecine Premium" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg" group-title="Filmes-series",Telecine Premium
+https://streaming.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1604826899&token=c9d7c8fa7619b5815c68c7a1416c9fbd
+
+#EXTINF:0 tvg-name="Telecine Touch" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinetouch.jpg" group-title="Filmes-series",Telecine Touch
+https://streaming.belugacdn.link/a/hls1/telecinetouch.m3u8?expires=1604826901&token=0d8057c50eab7b80c44ff8930ae0a8db
+
+#EXTINF:0 tvg-name="Tooncast" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tooncast.jpg" group-title="Infantis",Tooncast
+https://streaming.belugacdn.link/a/hls1/tooncast.m3u8?expires=1604826956&token=458c179bf427649e01848158bf4475de
+
+#EXTINF:0 tvg-name="Universal Channel" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/universal.jpg" group-title="Filmes-series",Universal Channel
+https://streaming.belugacdn.link/a/hls1/universal.m3u8?expires=1604826905&token=8533873752e9e1cbebd962ed4664cd85
+
+#EXTINF:0 tvg-name="Viva" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/viva.jpg" group-title="Variedades",Viva
+https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1604827004&token=e8eb1bc59195901083ce384a1dc34515
+
+#EXTINF:0 tvg-name="Warner TV" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/warner.jpg" group-title="Filmes-series",Warner TV
+https://streaming.belugacdn.link/a/hls1/warner.m3u8?expires=1604826906&token=23e2aaa9626e5b448a6cc63f8ff80786
+
+#EXTINF:0 tvg-name="Zoomoo" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/zoomoo.jpg" group-title="Infantis",Zoomoo
+https://streaming.belugacdn.link/a/hls1/zoomoo.m3u8?expires=1604826957&token=4e7213f1def87c497318e57536070443
