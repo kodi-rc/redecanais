@@ -587,14 +587,13 @@ class MainWindow():
         if channel != None and channel.url != None:
 
             ######################### Plugin RDC ###############################
-            if 'player3/canaishlb.php?canal=' in channel.url:
+            if 'player3/canaishlb.php?canal=' in channel.url or '/player3/server' in channel.url:
                 import urllib3, urllib
-            
                 myagent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0)'
+                
                 try:
                     http = urllib3.PoolManager()
-
-                    print('*** Efetuando requisição HTTP ***')
+                    print('*** Efetuando requisiÃ§Ã£o HTTP ***')
                     resp = http.request(
                         'GET',
                         channel.url,
@@ -604,11 +603,17 @@ class MainWindow():
                         }
                     )
                     
-                    cryptContent = resp.data.decode('utf-8')
-
-                    start = re.escape('source: "')
-                    end = re.escape('"')
-                    chUrl = re.search(r'' + start + '(.*?)' + end, cryptContent).group(1).strip()
+                    cryptContent = str(resp.data.decode('utf-8').replace('\n', ''))
+                    
+                    if 'canal=' in channel.url:
+                        start = re.escape('source: "')
+                        end = re.escape('"')
+                        chUrl = re.search(r'' + start + '(.*?)' + end, cryptContent).group(1).strip()
+                    else:
+                        #start = re.escape('source src="')
+                        start = re.escape('baixar="')
+                        end = re.escape('"')
+                        chUrl = re.search(r'' + start + '(.*?)' + end, cryptContent).group(1).strip()
 
                     #channel.url = '%s|Referer=%s&User-Agent=%s' % (chUrl, urllib.parse.quote_plus(channel.url), urllib.parse.quote_plus(myagent))
                     channel.url = chUrl
