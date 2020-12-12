@@ -589,8 +589,8 @@ class MainWindow():
             ######################### Plugin RDC ###############################
             if 'player3/canaishlb.php?canal=' in channel.url or '/player3/server' in channel.url:
                 import urllib3, urllib
-                myagent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0)'
-                
+                myagent = self.settings.get_string("user-agent")
+
                 try:
                     http = urllib3.PoolManager()
                     print('*** Efetuando requisiÃ§Ã£o HTTP ***')
@@ -604,6 +604,9 @@ class MainWindow():
                     )
                     
                     cryptContent = str(resp.data.decode('utf-8').replace('\n', ''))
+                    #print('&&&&&&&&&&&&&&&&&&')
+                    #print(cryptContent)
+                    #print('&&&&&&&&&&&&&&&&&&')
                     
                     if 'canal=' in channel.url:
                         start = re.escape('source: "')
@@ -617,6 +620,7 @@ class MainWindow():
 
                     #channel.url = '%s|Referer=%s&User-Agent=%s' % (chUrl, urllib.parse.quote_plus(channel.url), urllib.parse.quote_plus(myagent))
                     channel.url = chUrl
+                    print('$$$$$$$$$$$$$$$$$$$$$$$$$$')
                     print(channel.url)
                     print('')
                 except Exception as e:
