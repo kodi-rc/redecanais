@@ -648,10 +648,12 @@ class MainWindow():
         self.playback_label.set_text(channel.name)
         self.info_revealer.set_reveal_child(False)
         if self.content_type == MOVIES_GROUP:
+			######################### Fix imdb ###############################
             if channel.title != '' or channel.title != None:
                 self.get_imdb_details(channel.title)
             else:
                 self.get_imdb_details(channel.name)
+			########################################################
         elif self.content_type == SERIES_GROUP:
             self.get_imdb_details(self.active_serie.name)
 
