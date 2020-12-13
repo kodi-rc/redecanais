@@ -593,7 +593,7 @@ class MainWindow():
 
                 try:
                     http = urllib3.PoolManager()
-                    print('*** Efetuando requisiÃ§Ã£o HTTP ***')
+                    print('*** Efetuando requisição HTTP ***')
                     resp = http.request(
                         'GET',
                         channel.url,
@@ -604,9 +604,6 @@ class MainWindow():
                     )
                     
                     cryptContent = str(resp.data.decode('utf-8').replace('\n', ''))
-                    #print('&&&&&&&&&&&&&&&&&&')
-                    #print(cryptContent)
-                    #print('&&&&&&&&&&&&&&&&&&')
                     
                     if 'canal=' in channel.url:
                         start = re.escape('source: "')
@@ -651,7 +648,10 @@ class MainWindow():
         self.playback_label.set_text(channel.name)
         self.info_revealer.set_reveal_child(False)
         if self.content_type == MOVIES_GROUP:
-            self.get_imdb_details(channel.name)
+            if channel.title != '' or channel.title != None:
+                self.get_imdb_details(channel.title)
+            else:
+                self.get_imdb_details(channel.name)
         elif self.content_type == SERIES_GROUP:
             self.get_imdb_details(self.active_serie.name)
 
