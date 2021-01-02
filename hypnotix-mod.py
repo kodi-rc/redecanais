@@ -617,7 +617,7 @@ class MainWindow():
                         end = re.escape('"')
                         chUrl = re.search(r'' + start + '(.*?)' + end, cryptContent).group(1).strip()
 
-                    #channel.url = '%s|Referer=%s&User-Agent=%s' % (chUrl, urllib.parse.quote_plus(channel.url), urllib.parse.quote_plus(myagent))
+                    #channel.url = '%s|Referer=%s&User-Agent=%s' % (chUrl, channel.url, urllib.parse.quote_plus(myagent))
                     channel.url = chUrl
                     print('$$$$$$$$$$$$$$$$$$$$$$$$$$')
                     print(channel.url)
@@ -628,7 +628,7 @@ class MainWindow():
                     print('-----')
                     print('Requisicao falhou - razao: ', e.reason)
                     print('-----')
-                    
+
                     channel.url = None
             ########################################################
 
