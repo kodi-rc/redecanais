@@ -292,3 +292,25 @@ def serie_info(serieNome=''):
         print('Serie name not informed\n')
         
 serie_info('A paranormal')
+
+tmdbid = ''
+title = ''
+
+if tmdbid != '':
+    serie_detail(tmdbid)
+
+else:
+    if title != ''
+        myImgpath = ''
+        overview = ''
+        trailer_lang = ''
+        trailer = ''
+
+        #series
+        #r_tv = search.tv(query=channel.title, language=tmdb_idioma)
+        #movies
+        r_tv = search.movie(query=title, language=tmdb_idioma)
+
+        if len(r_tv['results']) > 0:
+            tmdbid = r_tv['results'][0]['id']
+            serie_detail(channel.tmdbid)
