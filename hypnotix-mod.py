@@ -60,6 +60,7 @@ class MyApplication(Gtk.Application):
             window = windows[0]
             window.present()
             window.show()
+            
         else:
             window = MainWindow(self)
             self.add_window(window.window)
@@ -234,7 +235,6 @@ class MainWindow():
 
         self.window.show()
         self.playback_bar.hide()
-
     def show_groups(self, widget, content_type):
         self.content_type = content_type
         self.navigate_to("categories_page")
@@ -590,7 +590,6 @@ class MainWindow():
             if 'player3/canaishlb.php?canal=' in channel.url or '/player3/server' in channel.url:
                 import urllib3, urllib
                 myagent = self.settings.get_string("user-agent")
-
                 try:
                     http = urllib3.PoolManager()
                     print('*** Efetuando requisição HTTP ***')
@@ -604,6 +603,9 @@ class MainWindow():
                     )
                     
                     cryptContent = str(resp.data.decode('utf-8').replace('\n', ''))
+                    #print('&&&&&&&&&&&&&&&&&&')
+                    #print(cryptContent)
+                    #print('&&&&&&&&&&&&&&&&&&')
                     
                     if 'canal=' in channel.url:
                         start = re.escape('source: "')
@@ -620,11 +622,13 @@ class MainWindow():
                     print('$$$$$$$$$$$$$$$$$$$$$$$$$$')
                     print(channel.url)
                     print('')
-                except Exception as e:
-                    print('**************************')
-                    print(e)
-                    #raise e
-                    print('**************************')
+
+                except urllib3.exceptions.HTTPError as e:
+                    print('Requisicao falhou: ', e)
+                    print('-----')
+                    print('Requisicao falhou - razao: ', e.reason)
+                    print('-----')
+                    
                     channel.url = None
             ########################################################
 
@@ -648,12 +652,10 @@ class MainWindow():
         self.playback_label.set_text(channel.name)
         self.info_revealer.set_reveal_child(False)
         if self.content_type == MOVIES_GROUP:
-			######################### Fix imdb ###############################
             if channel.title != '' or channel.title != None:
                 self.get_imdb_details(channel.title)
             else:
                 self.get_imdb_details(channel.name)
-			########################################################
         elif self.content_type == SERIES_GROUP:
             self.get_imdb_details(self.active_serie.name)
 
