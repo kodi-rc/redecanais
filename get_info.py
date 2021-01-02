@@ -7,7 +7,7 @@ import os
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
 import tmdbsimple as tmdb
-myKey = 'db175ebea0f1f462b6a5f90eb5be454a' #add an option for the user to put their TMDB key
+myKey = '***' #add an option for the user to put their TMDB key
 tmdb.API_KEY = myKey
 TMDB_LANG = 'pt-BR' #User local language
 
